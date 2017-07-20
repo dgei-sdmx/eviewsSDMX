@@ -68,4 +68,12 @@
         "apiKey": "False",
         "format":"format=compact_2_1"
     }
+    "IMF": {
+        "protocol":"http",
+        "host":"dataservices.imf.org",
+        "path": "/REST/SDMX_XML.svc/",
+        "agencyID": "IMF",
+        "apiKey": "False",
+        "format":""
+    }
 }
